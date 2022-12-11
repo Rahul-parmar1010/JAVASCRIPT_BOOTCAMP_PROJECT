@@ -1,4 +1,4 @@
-# JAVASCRIPT_BOOTCAMP_PROJECT Article's 
+# JAVASCRIPT_BOOTCAMP_2.O 
 ### HTML&CSS Projects 
 [Project's ](https://rahul1010.hashnode.dev/project)
 ### Web server & wbsite
